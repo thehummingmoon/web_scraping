@@ -1,3 +1,6 @@
+**INPUT:** Data.xlsx <br>
+**OUTPUT:** Scraped_data.csv
+
 **Web Scraping from Excel to CSV**<br>
 This project automates the process of scraping data from multiple URLs listed in an Excel file and saves the scraped data into a CSV file. It utilizes Python along with libraries such as pandas, requests, and BeautifulSoup for web scraping tasks.
 
